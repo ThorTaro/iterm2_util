@@ -1,0 +1,2 @@
+#!/usr/local/bin/zsh
+python3 ./change_current_preset.py $1
