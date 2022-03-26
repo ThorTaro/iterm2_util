@@ -1,0 +1,2 @@
+#!/usr/local/bin/zsh
+watch -n 1 -t 'date "+%H:%M" | figlet -c -w 50 -f roman'

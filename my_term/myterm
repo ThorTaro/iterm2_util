@@ -1,0 +1,4 @@
+#!/usr/local/bin/zsh
+
+# change this path if you need
+python3 ./launch_my_iterm.py

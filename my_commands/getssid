@@ -1,0 +1,2 @@
+#!/usr/local/bin/zsh
+watch 'networksetup -getairportnetwork en0'
